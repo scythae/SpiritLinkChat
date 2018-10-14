@@ -1,0 +1,8 @@
+*.dcu
+__*/
+bckp/
+Win32/
+*.local
+*.stat
+*.res
+*.identcache
